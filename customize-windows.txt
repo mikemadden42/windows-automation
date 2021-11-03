@@ -1,0 +1,23 @@
+Uncheck show cortana button.
+Hide search on task bar.
+Unpin Store, Mail on task bar.
+Setup colors to dark for application mode & windows mode.
+Set the background image to the camping picture.
+Turn off bluetooth.
+Turn off most items in privacy.
+Set timezone automatically.
+Turn of news and interests.
+
+Install Windows updates.
+
+Setup zscaler:
+https://wiki.cs.sys/pages/viewpage.action?spaceKey=SECCOM&title=Zscaler+Administration+Guide
+https://wiki.cs.sys/pages/viewpage.action?spaceKey=SECCOM&title=Zscaler+Internet+Access+Agent+Executables
+install-zscaler.bat
+
+Setup choco:
+https://docs.chocolatey.org/en-us/choco/setup
+https://docs.chocolatey.org/en-us/choco/commands/install
+install-packages.bat
+
+Add directory paths to some apps installed with choco to PATH.
